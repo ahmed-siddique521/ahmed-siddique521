@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmed-siddique521/ahmed-siddique521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at UMT
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building full-stack web applications and solving real-world problems through technology.
+
+## Tech Stack
+
+* Frontend: HTML, CSS, JavaScript, React.js
+* Backend: Node.js, Express.js
+* Database: MongoDB, SQL
+* Programming Languages: JavaScript, C++
+* Tools: Git, GitHub, Postman, VS Code
+
+## Currently Learning
+
+* Advanced React Patterns
+* Backend Architecture
+* System Design
+* Cloud Technologies
+
+## Featured Projects
+
+### Game Arcade Token & Session Management System
+
+C++ project implementing Linked Lists, Queues, Stacks, and Binary Search Trees for arcade management.
+
+### Travel Together
+
+Travel buddy finder system focused on connecting travelers and enhancing travel experiences.
+
+
